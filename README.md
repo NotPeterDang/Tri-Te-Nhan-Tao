@@ -1,1 +1,0 @@
-# Tri-Te-Nhan-Tao
