@@ -1,10 +1,12 @@
-# Thuật toán Tìm kiếm Đồ thị (Graph Search Algorithms)
+# Thuật duyệt đồ thị (Graph Search Algorithms)
 
 ### Giới thiệu
 
-Thuật toán tìm kiếm đồ thị là những phương pháp quan trọng trong khoa học máy tính và toán học rời rạc, được sử dụng để khám phá các nút và cạnh của một đồ thị. Chúng có ứng dụng rộng rãi trong nhiều lĩnh vực như tìm đường đi ngắn nhất, phân tích mạng, trí tuệ nhân tạo, và tối ưu hóa.
+Duyệt đồ thị là một kỹ thuật cốt lõi trong khoa học máy tính và toán học rời rạc, được dùng để khám phá các đỉnh (nodes) và cạnh (edges) trong một đồ thị. Các thuật toán này đóng vai trò quan trọng trong nhiều lĩnh vực, từ tìm đường đi ngắn nhất, phân tích mạng, trí tuệ nhân tạo đến các bài toán tối ưu hóa phức tạp.
 
 ### Nội dung
+
+Kho lưu trữ này tập trung vào hai thuật toán duyệt đồ thị phổ biến: Breadth-First Search (BFS) và Depth-First Search (DFS), cùng với các ví dụ minh họa trực quan.
 
 Kho lưu trữ này bao gồm các chủ đề chính sau:
 
