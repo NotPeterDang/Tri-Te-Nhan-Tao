@@ -1,9 +1,9 @@
-# 🧠 LAB 02 – ARTIFICIAL INTELLIGENCE  
-## 🔬 THỰC HÀNH 06 & 07: Bài toán N-Queens
+#  LAB 02 – ARTIFICIAL INTELLIGENCE  
+##  THỰC HÀNH 06 & 07: Bài toán N-Queens
 
 ---
 
-## 🎯 Mục tiêu
+##  Mục tiêu
 
 - Hiểu và mô tả bài toán **N-Queens** trong Trí tuệ Nhân tạo.
 - Cài đặt thuật toán giải bài toán bằng kỹ thuật **quay lui (backtracking)**.
@@ -13,7 +13,7 @@
 
 ---
 
-## 📌 Nội dung thực hành
+##  Nội dung thực hành
 
 ### 1. Bài toán 4-Queens (TH06)
 
@@ -65,7 +65,7 @@
 
 ---
 
-## 🛠 Công nghệ & Kỹ thuật sử dụng
+##  Công nghệ & Kỹ thuật sử dụng
 
 - **Ngôn ngữ**: Python
 - **Thư viện**: `numpy`
@@ -73,7 +73,7 @@
 
 ---
 
-## ▶️ Hướng dẫn chạy chương trình
+##  Hướng dẫn chạy chương trình
 
 1. Cài đặt Python và thư viện numpy (nếu chưa có):
 
@@ -91,7 +91,7 @@
 
 ---
 
-## 📋 Ghi chú
+##  Ghi chú
 
 - Bài toán N-Queens là một ví dụ điển hình trong các bài toán tìm kiếm không gian trạng thái.
 - Khi `N` tăng, độ phức tạp tăng theo cấp số nhân.
