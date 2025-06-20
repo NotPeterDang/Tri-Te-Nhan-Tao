@@ -3,7 +3,6 @@
 
 ---
 
-##  Mục tiêu
 
 - Hiểu và mô tả bài toán **N-Queens** trong Trí tuệ Nhân tạo.
 - Cài đặt thuật toán giải bài toán bằng kỹ thuật **quay lui (backtracking)**.
